@@ -47,12 +47,6 @@ var dummy_info = {
       "image": "product_6.jpg"
     },
     {
-      "name": "HD Vision",
-      "description": "Reality is not enough for you? Improve your live with the HD vision glasses.",
-      "price": parseInt(Math.random() * 100),
-      "image": "product_7.jpg"
-    },
-    {
       "name": "Hangs free",
       "description": "Say goodbye to the cumbersome cables with the authentic hands free.",
       "price": parseInt(Math.random() * 100),
